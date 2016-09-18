@@ -1,3 +1,2 @@
 # my-test-repository1
-this is a test repo
 testing
